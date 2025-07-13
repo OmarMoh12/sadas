@@ -35,7 +35,7 @@ from py_compile import compile
 
 
 # TOKEN BOT
-TOKEN = '6990886058:AAHN0i_jFygY-6JWwfz0bBb61v2_TE9QlAk'
+
 # BUILD BOT
 bot = ApplicationBuilder().token(TOKEN).build()
 
